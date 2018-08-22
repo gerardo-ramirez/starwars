@@ -15,7 +15,7 @@ function getLocalList (key) {
         return []
       }
     }
-  }
+  }//mama mia
   
   /**
    * La función setLocalList permite guardar una lista
